@@ -6,4 +6,4 @@ Comandos:
 
 ou
 
-python metasploit.sh
+bash metasploit.sh
