@@ -1,9 +1,9 @@
 #!/data/data/com.termux/files/usr/bin/bash
 echo "##############################################"
-echo "           Script By: Smith Hacker            "
+echo "                By:Smith Hacker               "
 echo "##############################################"
 
-echo "FAZENDO A INSTALA«√O AGUARDE............" 
+echo "FAZENDO A INSTALA√á√ÉO AGUARDE............" 
 
 echo "##############################################"
 apt install -y autoconf bison clang coreutils curl findutils git apr apr-util libffi-dev libgmp-dev libpcap-dev postgresql-dev readline-dev libsqlite-dev openssl-dev libtool libxml2-dev libxslt-dev ncurses-dev pkg-config postgresql-contrib wget make ruby-dev libgrpc-dev termux-tools ncurses-utils ncurses unzip zip tar postgresql
