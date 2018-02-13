@@ -43,7 +43,7 @@ rm ./modules/auxiliary/gather/http_pdf_authors.rb
 ln -s $HOME/metasploit-framework/msfconsole /data/data/com.termux/files/usr/bin/
 
 echo "###############################################"
-echo "---------------Code The World-----------------"
+echo "-----Instalação completa. By: Smith Hacker-----"
 echo "###############################################"
 echo ""
 echo "##############################################"
